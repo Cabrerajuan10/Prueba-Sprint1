@@ -1,5 +1,4 @@
-# Prueba
-## Proyecto Integrador
+# Prueba Proyecto Integrador
 ## Integrantes
 - Juan Cabrera
 - Maximiliano Rodriguez
